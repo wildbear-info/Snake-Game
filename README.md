@@ -4,4 +4,4 @@
                                               
 
 # installation
-for install this game you most install pygame. for install pygame just type "pip install pygame"
+For install this game you most install pygame. for download and install pygame you can just type "pip install pygame"
