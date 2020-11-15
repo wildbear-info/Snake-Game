@@ -12,9 +12,10 @@ if you are in linux type this in terminal .
  
  
 # about me
- My blog : www.wildbear.info
+
+ My site : www.wildbear.info
  
+ My blog : www.wild-bear.blog.ir
  
- 
- My email : wild.bear.blog@gmail.com
+ My email : info@wildbear.info
 
