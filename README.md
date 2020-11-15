@@ -11,7 +11,7 @@ if you are in linux type this in terminal .
  wild baer 
  
  
-# about me
+# About me
 
  My site : www.wildbear.info
  
